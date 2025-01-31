@@ -1,6 +1,8 @@
 # Proyecto Cátedra Final 
 David Alejandro Alvarez Moreira AM240104
+
 Alejandra Marisol Hernández Monterrosa HM240103
+
 Salvador Enrique Delgado Peñate DP240093
 
 https://www.canva.com/design/DAGVh72-G7A/ggkdtwEibs5j4-juZkZuTg/edit?utm_content=DAGVh72-G7A&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
